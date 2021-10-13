@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.exe
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.deps.json
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.runtimeconfig.json
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.dll
+C:\Users\hp\source\repos\Stringformat\Stringformat\bin\Debug\netcoreapp3.1\Stringformat.pdb
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.AssemblyInfo.cs
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.dll
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.pdb
+C:\Users\hp\source\repos\Stringformat\Stringformat\obj\Debug\netcoreapp3.1\Stringformat.genruntimeconfig.cache
